@@ -3,6 +3,9 @@
 int main()
 {
 	int var = 1 ;
+	unsigned int var_1 = 2 ;
+	unsigned int var_2 = 2 ;
+
 
 	return 0;
 }
